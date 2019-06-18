@@ -1,0 +1,66 @@
+{{Namespace detect|
+ |main={{if preview|{{Error|Do not use {{tl|Draft article}} in mainspace}}|}}
+ |other={{#ifeq:|yes||{{mbox
+| name  = Draft article
+| image = [[File:Under_construction_icon-blue.svg|40px|alt=|link=]]
+| text  = <center>{{Draft article check}}</center>'''This is a [[WP:Drafts|draft article]]'''. It is a work in progress [[WP:BOLD|open to editing]] by [[WP:ANYONE|anyone]]. Please ensure [[WP:CCPOL|core content policies]] are met before publishing it as a  [[WP:ARTICLE|live Wikipedia article]]{{#if:|{{sp}}at [[{{{1}}}]]}}.{{sp}}{{#ifeq:|yes||
+<div style="font-size: 85%">
+----
+{{find sources}}<br>
+{{automated tools}}{{·}}{{Wikipedia logs|note=}}.
+----
+</div>}}{{#ifeq:|yes|<span style=font-size:85%>|{{clear}}<div style="float:left; font-size:85%;">}}{{last edited by|brief=yes}}{{#ifeq:|yes|</span>|</div>}}{{#ifeq:|yes||<div style=float:right>}}
+{{Namespace detect showall|1={{#ifeq:|yes||{{#invoke:AFC submission catcheck|submitted|This draft has been submitted and is currently awaiting review.|{{#if:{{REVISIONID}}|{{Clickable button 2|Finished drafting? Submit for review!|url={{fullurl:{{FULLPAGENAME}}|action=edit&veswitched=0&section=new&nosummary=1&preload=Template:AFC_submission/Subst&editintro=Template:AFC_submission/Subst/Editintro}}|class=mw-ui-progressive|style=style=line-height: 1.6em; padding: 0 1.6em 0 1.6em}}|Save your work by pressing the "<bdi>{{int:Publishpage}}</bdi>" button below, and a button will appear here allowing you to submit your draft for review.}}}}}}|draft=1|other={{#ifeq:|yes|1}}}}{{#ifeq:|yes||</div>}}}}{{#if:|{{mbox|text='''Join in and [[WP:BOLD|help expand this draft]]!'''}}}}{{#ifeq:|yes||[[:Category:{{#switch:{{lc:}}
+|agriculture|food|drink|agriculture, food, and drink=Drafts about agriculture, food, and drink
+|art|architecture|art and architecture=Drafts about art and architecture
+|engineering|technology|engineering and technology=Drafts about engineering and technology
+|geography|places|geography and places=Drafts about geography and places
+|history=Drafts about history
+|language|literature|language and literature=Drafts about language and literature
+|math|mathematics=Drafts about mathematics
+|media|drama|media and drama=Drafts about media and drama
+|music=Drafts about music
+|natural sciences=Drafts about natural sciences
+|philosophy|religion|philosophy and religion=Drafts about philosophy and religion
+|social sciences|society|social sciences and society=Drafts about social sciences and society
+|sports|recreation|sports and recreation=Drafts about sports and recreation
+|video games=Drafts about video games
+|warfare=Drafts about warfare
+|#default=Draft articles}}|{{PAGENAME}}]]}}{{NOINDEX}}}}}}
+{{short description|Indian Information company}}
+{{Infobox company
+| name = Informatics India Limited
+| type     = [[Private company|Private]]
+| industry = [[Information industry | Information]]
+| founded = {{Start date and age|1980}}
+| founder = [[N V Sathyanarayana]]
+| hq_location_city = [[Bangalore]]
+| hq_location_country = [[India]]
+| num_locations = 
+| num_locations_year = <!-- Year of num_locations data (if known) -->
+| area_served = <!-- or: | areas_served = -->
+| key_people = [[N V Sathyanarayana]] <small>([[Chairman]] and [[Managing Director|Managing Director]])</small><ref>{{Cite journal|last=Strauch|first=Katina|last2=Gilson|first2=Tom|date=2016-04-01|title=ATG Interviews NV Sathyanarayana, Chairman and Managing Director, Informatics (India) Limited|journal=Against the Grain|volume=28|issue=2|doi=10.7771/2380-176X.7316|issn=2380-176X}}</ref>
+| products = [[J-Gate]]<ref>{{Cite web|url=https://techstory.in/journal-discovery-platforms-helping-technology-research/|title=How Journal Discovery Platforms Are Helping Technology Research In India: E-Learning|last=Guest|date=2018-02-13|website=TechStory|language=en-US|access-date=2019-06-17}}</ref>
+| website = {{url|https://www.informaticsglobal.com/}}
+}}
+
+'''Informatics''' is an Indian e-information company based in [[Bangalore, India]] that was founded by [[N V Sathyanarayana]] in 1980. <ref>{{Cite web|url=https://www.dqindia.com/rank-165-informatics-india/|title=Rank 165: Informatics India|date=2002-08-03|website=DATAQUEST|language=en-US|access-date=2019-06-18}}</ref> It started as a firm providing information in the pre-internet era through [[telex]] facility. <ref>{{Cite web|url=https://www.indiatoday.in/magazine/economy/story/19860430-indian-industry-begins-to-wake-up-to-the-information-explosion-800812-1986-04-30|title=Indian industry begins to wake up to the information explosion|last=April 30|first=Srinivasa Prasad|last2=April 30|first2=1986 ISSUE DATE:|website=India Today|language=en|access-date=2019-06-17|last3=January 28|first3=1986UPDATED:|last4=Ist|first4=2014 13:21}}</ref> It owns a collection of [[Subscription business model | Subscription Based]] services focused largely on scientific and academic research. <ref>{{Cite web|url=https://www.informaticsglobal.com/who-we-are/|title=Who We Are|last=|first=|date=|website=Informatics|archive-url=|archive-date=|dead-url=|access-date=}}</ref> Its major products and services are database and content driven.  
+
+In 2001, Informatics developed its flagship product [[J-Gate]]<ref>{{Cite web|url=https://www.indiatechonline.com/it-happened-in-india.php?id=549|title=J-Gate, from Informatics India, now world's largest journals database|website=www.indiatechonline.com|access-date=2019-06-13}}</ref>. 
+
+Around 2006, they started offering free version of J-Gate named [[Open J-Gate]]<ref>{{Cite journal|last=Sathyanarayana|first=N. V.|date=2008|title=Open Access and Open J-Gate|url=https://publications.drdo.gov.in/ojs/index.php/djlit/article/view/153|journal=DESIDOC Journal of Library & Information Technology|language=en|volume=28|issue=1|pages=57–60|doi=10.14429/djlit.28.1.153|issn=0976-4658}}</ref> and also introduced a platform for business community named India Business Insight. <ref>{{Cite web|url=https://www.researchgate.net/publication/268327798_Hierarchical_Browsing_Interface_A_Case_Study_with_India_Business_Insight_Database_IBID|title=(PDF) Hierarchical Browsing Interface: A Case Study with India Business Insight Database (IBID)|website=ResearchGate|language=en|access-date=2019-06-18}}</ref><ref>{{Cite web|url=https://www.researchinformation.info/interview/researching-india|title=Researching India {{!}} Research Information|website=www.researchinformation.info|access-date=2019-06-13}}</ref>. 
+__TOC__
+==See also==
+* [[Clarivate Analytics]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.informaticsglobal.com Official Website]
+* [https://jgateplus.com/home/ J-Gate]
+
+[[Category:Companies based in Bangalore]]
+[[Category:Indian companies established in 1980]]
+[[Category:Information technology companies of Bangalore]]
+[[Category:Software companies of India]]
