@@ -1,0 +1,83 @@
+{{Infobox settlement
+| name                    = Yagati
+| native_name             = 
+| native_name_lang        = 
+| other_name              = 
+| nickname                = 
+| settlement_type         = 
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| pushpin_map             = 
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in Karnataka, India
+| coordinates             = {{coord|13|37|N|76|08|E|display=inline,title}}<ref>{{Cite web|url=http://www.maplandia.com/india/karnataka/chikmagalur/yagati/|title=Yagati Map {{!}} India Google Satellite Maps|website=www.maplandia.com|access-date=2019-06-22}}</ref>
+| subdivision_type        = Country
+| subdivision_name        = {{flag|India}}
+| subdivision_type1       = [[States and territories of India|State]]
+| subdivision_name1       = [[Karnataka]]
+| subdivision_type2       = [[List of districts of India|District]]
+| subdivision_name2       = [[Chikmagalur]]
+| established_title       = <!-- Established -->
+| established_date        = 
+| founder                 = 
+| named_for               = 
+| parts_type              = [[Taluka]]s
+| parts                   = [[Kadur]]
+| government_type         = 
+| governing_body          = 
+| unit_pref               = Metric
+| area_footnotes          = 
+| area_rank               = 
+| area_total_km2          = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_total        = 2,674
+| population_as_of        = 2011
+| population_rank         = 
+| population_density_km2  = auto
+| population_demonym      = 
+| population_footnotes    = 
+| demographics_type1      = Languages
+| demographics1_title1    = Official
+| demographics1_info1     = [[Kannada]]
+| timezone1               = [[Indian Standard Time|IST]]
+| utc_offset1             = +5:30
+| postal_code_type        = [[Postal Index Number|PIN]]
+| postal_code             = 577140<ref>{{Cite web|url=https://pincode.net.in/KARNATAKA/CHICKMAGALUR/Y/YAGATI|title=Pin Code: YAGATI, CHICKMAGALUR, KARNATAKA, India, Pincode.net.in|website=pincode.net.in|access-date=2019-06-22}}</ref>
+| registration_plate      = 
+| website                 = 
+| footnotes               = 
+}}
+'''Yagati''' is a [[hobli]] in the southern state of [[Karnataka]], India. It is located in the [[Kaduru]] [[taluk]] of [[Chikmagalur|Chikmagalur district]].
+
+Yagati houses many sacred temples, Sri Mallikarjuna Temple<ref>{{Cite web|url=https://yagatypuratemple.in/about-us.php|title=Sri Mallikarjuna Swamy Temple yagatypura|website=yagatypuratemple.in|access-date=2019-06-25}}</ref> of Lord Shiva is considered as the native God. Yearly festive of Goddess Arekallamma<ref>{{Cite news|url=https://www.deccanherald.com/district/y-s-v-datta-files-papers-kadur-666470.html|title=YSV Datta offers prayer in Arekkallama temple after filing nominations.|last=|first=|date=24 April 2018|work=Deccan Herald|access-date=}}</ref> is celebrated throughout the village. A rare monolithic stone of Lord Hanuman is worshipped in the Anjaneya temple. 
+
+Farming is the main occupation with farmers mainly growing tender coconut and banana trees. Due to the water scarcity and draughts there as been in decline in the farming work. <ref>{{Cite web|url=https://www.deccanherald.com/state/mangaluru/kadur-taluk-reels-under-acute-water-crisis-730706.html|title=Kadur taluk reels under acute water crisis|date=2019-04-25|website=Deccan Herald|language=en|access-date=2019-06-25}}</ref>
+
+==Demographics==
+At the 2011 India [[census]], Yagati had a population of 2,674 (1,342 males, 1,332 females).
+
+==Image Gallery==
+Yagati is located 60 KM towards East from District head quarters Chikkamagaluru. 12 KM from Kadurhalli. 201 KM from State capital Bangalore.
+
+==Famous Personalities==
+[[Janata Dal (Secular) | JDS]] political party's famous and simple living [[Member of the Legislative Assembly (India) | ex-MLA]] [[Y. S. V. Datta]] was born and bought up in Yagati village.<ref>{{Cite web|url=https://www.ndtv.com/south/meet-ysv-datta-the-politician-who-travels-in-an-auto-529367|title=Meet YSV Datta- the politician who travels in an auto|website=NDTV.com|access-date=2019-06-24}}</ref>
+
+== References ==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+== See Also ==
+* [[Kadur]]
+* [[Districts of Karnataka]]
+
+== External links ==
+* [https://chikkamagaluru.nic.in/en/ Chikkamagaluru]
+
+__INDEX__
+
+[[Category:Villages in India]]
+[[Category:Villages in Karnataka]]
+[[Category:Villages in Chikkamagaluru district]]
